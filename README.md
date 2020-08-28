@@ -5,4 +5,5 @@ It has a few minor bugs which will be resolved and updated soon.
 Version - 1.0
 
 You can remodify and change the code but no distribution or copy of code is permitted.
-MADE BY - Pradyun Beerla 2020
+
+Credits - Pradyun Beerla 2020
